@@ -1,0 +1,325 @@
+body {
+  background-color: #DEDEDE;
+  font-family: "Montserrat" ,sans-serif;
+}
+
+.navbar-brand img {
+  max-height: 50px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #3A9ECE;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  font-weight: bold;
+  color: #3A9ECE !important;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #197caa;
+}
+
+header {
+  margin-top: -80px;
+}
+
+header .container-header {
+  margin-top: -400px;
+  margin-bottom: 200px;
+}
+
+header .container-header h1 {
+  font-family: "Poppins" !important;
+  font-weight: 400;
+  color: white;
+  font-size: 40px;
+}
+
+header .container-header h1 span {
+  color: #3A9ECE;
+  font-weight: 500;
+}
+
+header .container-header p {
+  font-size: 18px;
+  color: white;
+  font-weight: 300;
+  font-style: italic;
+}
+
+header .container-header .btn-our-work {
+  color: white;
+  background-color: #3A9ECE;
+  border-radius: 20px;
+  font-weight: 500;
+}
+
+header .container-header .btn-our-work:hover {
+  color: white;
+  background-color: #2b90be;
+}
+
+.value-helpful img {
+  max-width: 100%;
+  max-height: 100%;
+  margin-bottom: 60px;
+  float: left;
+}
+
+.value-helpful .helpful h5 {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.value-helpful .helpful P {
+  font-size: 14px;
+  font-style: italic;
+}
+
+.section-service {
+  padding-top: 20px;
+  min-height: 450px;
+  background-color: #326F90;
+}
+
+.section-service h3 {
+  font-size: 36px;
+  font-weight: 500;
+  color: #D2A236;
+}
+
+.section-our-service {
+  margin-top: -350px;
+}
+
+.section-our-service p {
+  font-family: Montserrat;
+  font-weight: 500;
+  font-size: 22px;
+  color: #d2a236;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.section-our-service img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.section-about p {
+  font-family: Montserrat;
+  font-weight: 500;
+  font-size: 50px;
+  color: #343434;
+}
+
+.section-about-us img {
+  min-width: 100%;
+  max-width: 100%;
+}
+
+.section-about-us p {
+  font-family: Montserrat;
+  font-weight: 400;
+  font-size: 20px;
+  text-align: justify;
+  color: #343434;
+}
+
+.section-about-us .btn-read-more {
+  width: 128px;
+  height: 45px;
+  border-radius: 22.5px;
+  background-color: #3a9ece;
+  font-family: Montserrat;
+  font-weight: 500;
+  font-size: 18px;
+  text-align: left;
+  color: #fff;
+  float: right;
+}
+
+.section-about-us .btn-read-more:hover {
+  color: white;
+  background-color: #197caa;
+}
+
+footer {
+  min-height: 240px;
+  background-color: #326F90;
+}
+
+footer .footer p {
+  font-family: Montserrat;
+  font-weight: 500;
+  font-size: 20px;
+  color: #d2a236;
+}
+
+footer .footer li {
+  font-family: Montserrat;
+  font-weight: 300;
+  font-size: 18px;
+  color: #d2a236;
+  padding-bottom: 4px;
+}
+
+footer .footer li a {
+  font-family: Montserrat;
+  font-weight: 300;
+  font-size: 18px;
+  color: #d2a236;
+  padding-bottom: 4px;
+}
+
+footer .footer li a:hover {
+  text-decoration: none;
+  color: #f1ba39;
+}
+
+footer .footer li img {
+  margin-right: 5px;
+}
+
+footer .footer .contact {
+  margin-bottom: 8px;
+  font-size: 16px;
+}
+
+footer .copyright p {
+  color: #D2A236;
+  font-size: 12px;
+  margin-bottom: 8px;
+}
+
+.header-about img {
+  height: 280px;
+  width: 100%;
+  max-width: 100%;
+}
+
+.header-about h1 {
+  font-size: 70px;
+  margin-top: -150px;
+  font-weight: 600;
+  margin-bottom: 100px;
+  color: #D2A236;
+  max-width: 100%;
+}
+
+.about-img img {
+  max-width: 100%;
+}
+
+.about-img p {
+  font-size: 20px;
+  text-align: justify;
+}
+
+.structure h1 {
+  font-size: 40px;
+  font-weight: 600;
+  color: #326F90;
+  margin-bottom: 15px;
+}
+
+.structure p {
+  font-size: 20px;
+}
+
+.img-structure img {
+  max-width: 100%;
+}
+
+.visi-misi .head h1 {
+  font-family: "Poppins";
+  font-size: 60px;
+  margin-top: 30px;
+  font-weight: 600;
+  color: #326F90;
+}
+
+.visi-misi hr {
+  border-width: 100px;
+}
+
+.visi-isi p {
+  font-size: 20px;
+}
+
+.misi-isi li p {
+  text-align: justify;
+  font-size: 20px;
+}
+
+.section-contact-us .card {
+  border-radius: 20px;
+}
+
+.section-contact-us .card iframe {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 20px;
+  padding-bottom: 0px;
+}
+
+.section-contact-us .card-body .logoo img {
+  width: 200px;
+  max-width: 100%;
+}
+
+.section-contact-us .card-body h5 {
+  color: #D2A236;
+}
+
+.section-contact-us .card-body p {
+  font-weight: 500;
+}
+
+.ourwork-page img {
+  height: 300px;
+  width: 100%;
+  max-width: 100%;
+}
+
+.ourwork-page h1 {
+  font-size: 70px;
+  margin-top: -170px;
+  font-weight: 600;
+  margin-bottom: 25px;
+  color: #D2A236;
+  max-width: 100%;
+}
+
+.card-work {
+  padding: 30px;
+  border-radius: 11px;
+}
+
+.card-work h2 {
+  color: #3a9ece;
+}
+
+.card-work .gallery {
+  padding: 50px;
+  padding-bottom: 0;
+}
+
+.card-work .gallery .xzoom-container {
+  display: block;
+}
+
+.card-work .xzoom {
+  width: 100%;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  margin-bottom: 10px;
+}
+
+.card-work .xactive {
+  border: 4px solid #197caa;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+/*# sourceMappingURL=main.css.map */
